@@ -1,13 +1,18 @@
 # minishift
-All tips, commands and troubleshooting about minishift
+All tips, commands and troubleshooting about minishift. This tutorial is focused to whom use virtualbox.
 
 # Table of Contents
 1. [Getting Started - Installation](#install)
+   1. [Installing Virtualization Lib](#libvirt)
 
 <a name="install"/>
 
 # Getting Started - Installation
-This tutorial is focused to whom use virtualbox. Steps to whom use ubuntu 18-10 or later. To others OS, go to https://docs.okd.io/latest/minishift/getting-started/setting-up-virtualization-environment.html.
+
+<a name="libvirt"/>
+
+## Installing Virtualization Lib
+Steps to whom use ubuntu 18-10 or later. To others OS, go to https://docs.okd.io/latest/minishift/getting-started/setting-up-virtualization-environment.html.
 * Get the binary to your OS on https://github.com/minishift/minishift/releases.
 * Install the virtualization dependency.
 ```
